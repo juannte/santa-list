@@ -3,7 +3,7 @@
 DEST_DIR="/var/www/santa-list"
 THINGS2COPY=("cgi" "static" "student.images")
 SITE_NAME="santa.goodies"
-ADMIN_EMAIL="aliaksei@hello.fresh"
+ADMIN_EMAIL="jaeriks@ntnu.no"
 
 # 1 - copy from a dev location to an Apache-accessible location (/var/www)
 sudo rm -rf "$DEST_DIR"
